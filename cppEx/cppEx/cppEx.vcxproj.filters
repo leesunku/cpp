@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\pjt1">
+      <UniqueIdentifier>{a7b928e0-1a5f-402a-9f10-502e189ce5f7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -49,6 +52,15 @@
     </ClCompile>
     <ClCompile Include="gugudan.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="student_score_manager_v1_0.cpp">
+      <Filter>소스 파일\pjt1</Filter>
+    </ClCompile>
+    <ClCompile Include="student_score_manager_v1_1.cpp">
+      <Filter>소스 파일\pjt1</Filter>
+    </ClCompile>
+    <ClCompile Include="student_score_manager_v1_2.cpp">
+      <Filter>소스 파일\pjt1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
